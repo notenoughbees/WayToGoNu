@@ -72,4 +72,8 @@ dependencies {
     androidTestImplementation("androidx.navigation:navigation-testing:$navVersion")
     // JSON serialization library, works with the Kotlin serialization plugin
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.3")
+
+    // fonts
+    implementation("androidx.compose.ui:ui-text-google-fonts:1.10.2")
+
 }

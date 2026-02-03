@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">WayToGoNu</string>
+    <!-- generic -->
+    <string name="app_name">WayToGo</string>
+
+    <!-- main screen -->
+    <string name="main_start_drive">Start Drive</string>
+    <string name="main_create_route">Create New Route</string>
+    <string name="main_routes_list">Routes List (Edit)</string>
+    <string name="main_driving_log">Driving Log</string>
+
+    <!-- settings screen -->
+
 </resources>
