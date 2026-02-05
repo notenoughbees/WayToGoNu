@@ -1,4 +1,4 @@
-package com.example.waytogonu.nav
+package com.github.notenoughbees.waytogonu.nav
 
 import androidx.navigation.NavHostController
 

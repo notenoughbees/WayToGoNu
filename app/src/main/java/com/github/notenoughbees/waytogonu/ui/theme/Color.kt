@@ -1,4 +1,4 @@
-package com.example.waytogonu.ui.theme
+package com.github.notenoughbees.waytogonu.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

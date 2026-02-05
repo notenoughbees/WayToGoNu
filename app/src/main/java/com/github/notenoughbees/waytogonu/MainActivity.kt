@@ -1,4 +1,4 @@
-package com.example.waytogonu
+package com.github.notenoughbees.waytogonu
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -24,8 +24,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.tooling.preview.PreviewScreenSizes
-import com.example.waytogonu.nav.AppNavGraph
-import com.example.waytogonu.ui.theme.WayToGoNuTheme
+import com.github.notenoughbees.waytogonu.nav.AppNavGraph
+import com.github.notenoughbees.waytogonu.ui.theme.WayToGoNuTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

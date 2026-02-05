@@ -1,6 +1,5 @@
-package com.example.waytogonu.ui.theme
+package com.github.notenoughbees.waytogonu.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

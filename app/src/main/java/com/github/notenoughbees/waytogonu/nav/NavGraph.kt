@@ -1,12 +1,12 @@
-package com.example.waytogonu.nav
+package com.github.notenoughbees.waytogonu.nav
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.waytogonu.screens.MainScreen
-import com.example.waytogonu.screens.SettingsScreen
+import com.github.notenoughbees.waytogonu.screens.MainScreen
+import com.github.notenoughbees.waytogonu.screens.SettingsScreen
 
 @Composable
 fun AppNavGraph() {

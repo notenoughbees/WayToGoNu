@@ -1,4 +1,4 @@
-package com.example.waytogonu
+package com.github.notenoughbees.waytogonu
 
 import org.junit.Test
 

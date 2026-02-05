@@ -1,4 +1,4 @@
-package com.example.waytogonu.screens
+package com.github.notenoughbees.waytogonu.screens
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.material3.Button

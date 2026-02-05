@@ -1,4 +1,4 @@
-package com.example.waytogonu.screens
+package com.github.notenoughbees.waytogonu.screens
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -25,7 +25,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.waytogonu.R
+import com.github.notenoughbees.waytogonu.R
 
 @Composable
 fun MainScreen(onOpenSettings: () -> Unit) {

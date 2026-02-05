@@ -1,4 +1,4 @@
-package com.example.waytogonu.nav
+package com.github.notenoughbees.waytogonu.nav
 
 // single source of truth for routes & route builders
 sealed class Screen(val route: String) {

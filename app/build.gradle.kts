@@ -8,13 +8,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.waytogonu"
+    namespace = "com.github.notenoughbees.waytogonu"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.waytogonu"
+        applicationId = "com.github.notenoughbees.waytogonu"
         minSdk = 30
         targetSdk = 36
         versionCode = 1
