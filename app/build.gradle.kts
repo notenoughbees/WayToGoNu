@@ -21,6 +21,9 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
+        // used as a "version number" during development so we know when app was last updated
+        buildConfigField("long", "BUILD_TIME", System.currentTimeMillis().toString() + "L")
     }
 
     buildTypes {
@@ -38,6 +41,7 @@ android {
     }
     buildFeatures {
         compose = true
+        buildConfig = true  // allow buildConfigField above
     }
 }
 

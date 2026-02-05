@@ -9,5 +9,6 @@
     <string name="main_driving_log">Driving Log</string>
 
     <!-- settings screen -->
+    <string name="settings_title">Settings</string>
 
 </resources>

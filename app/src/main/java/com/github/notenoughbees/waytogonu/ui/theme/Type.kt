@@ -32,14 +32,14 @@ val Typography = Typography(
         letterSpacing = 0.sp,
     ),
 
-//    // top app bar title
-//    titleLarge = TextStyle(
-//        fontFamily = FontFamily.Default,
-//        fontSize = 36.sp,
-//        lineHeight = 28.sp,
-//        letterSpacing = 0.sp,
-//    ),
-//
+    // top app bar title
+    titleLarge = TextStyle(
+        fontFamily = FontFamily.Default,
+        fontSize = 36.sp,
+        lineHeight = 28.sp,
+        letterSpacing = 0.sp,
+    ),
+
 //    // alert dialog titles
 //    titleMedium = TextStyle(
 //        fontFamily = FontFamily.Default,
